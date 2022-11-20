@@ -79,3 +79,4 @@ curl http://127.0.0.1:5678/apple
 /apple
 
 发现我们的服务已经起来了
+![nacos sidecar服务自动注册](https://github.com/xiazemin/registrator-nacos/blob/main/nacos.jpeg)
